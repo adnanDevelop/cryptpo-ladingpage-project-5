@@ -29,7 +29,7 @@ const ContractStart = () => {
   });
 
   return (
-    <main className="width counter-section w-full py-[30px] bg-red text-white rounded-[15px] text-center my-[60px] md:mx-auto">
+    <main className="width counter-section w-full sm:py-[30px] py-[20px] bg-red text-white rounded-[15px] text-center my-[60px] md:mx-auto">
       <p className="">CONTRACTS STARTS IN</p>
       <h2 className="font-primary md:text-[30px] text-[20px] font-semibold flex flex-wrap gap-x-4 items-center justify-center">
         <span className="" >{timeLeft.days} Days</span>
