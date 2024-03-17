@@ -16,7 +16,7 @@ const Earning = () => {
           </h2>
         </section>
         <section className="mt-[10px] md:grid grid-cols-12 lg:gap-x-8 md:gap-6">
-          <div className="lg:col-span-4 col-span-5 plan-card p-4 pb-3 rounded-[15px] bg-red shadow md:mb-0 mb-6">
+          <div className="lg:col-span-4 col-span-5 plan-card p-4 rounded-[15px] bg-red shadow md:mb-0 mb-6">
             <div className="plan-section border-b-[2px] border-b-[#facc1552] ">
               <span className="text-white uppercase font-primary text-[14px] font-semibold">
                 Total Deposit
