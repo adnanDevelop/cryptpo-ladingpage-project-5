@@ -44,7 +44,7 @@ const Earning = () => {
             <button
               className={`w-full block py-3 bg-white text-black font-primary font-semibold mt-3 rounded-lg`}
             >
-              Nothing to widdraw
+              Nothing to withdraw
             </button>
           </div>
           <div className="lg:col-span-8 col-span-7 p-4 pb-2 rounded-[15px] bg-white shadow">

@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
       </div>
       {/* IMAGE SECTION */}
-      <div className="img_section w-full flex items-center lg:justify-end justify-center relative">
+      <div className="img_section w-full flex items-center lg:justify-end justify-center relative lg:mt-0 mt-6">
         <img
           src="/image/hero-img.png"
           className="lg:max-w-[650px] max-w-[400px] lg:h-[450px] h-[300px] object-cover"
