@@ -92,7 +92,6 @@ const Earning = () => {
           </div>
         </section>
       </main>
-      <footer className="text-center text-white bg-red text-[14px] py-4 font-primary">Copyright © 2024 AVAX. All rights reserved.</footer>
     </>
   );
 };
