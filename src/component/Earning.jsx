@@ -9,7 +9,7 @@ const Earning = () => {
 
   return (
     <>
-      <main className="width my-[60px]">
+      <main className="width mt-[60px] mb-[30px]">
         <section className="title text-left">
           <h2 className="font-semibold text-[30px] font-primary mb-6">
             Earnings
