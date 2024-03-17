@@ -16,7 +16,7 @@ const Earning = () => {
           </h2>
         </section>
         <section className="mt-[10px] md:grid grid-cols-12 lg:gap-x-8 md:gap-6">
-          <div className="lg:col-span-4 col-span-5 plan-card p-4 rounded-[15px] bg-red shadow md:mb-0 mb-6">
+          <div className="lg:col-span-4 col-span-5 plan-card p-4 pb-2 rounded-[15px] bg-red shadow md:mb-0 mb-6">
             <div className="plan-section border-b-[2px] border-b-[#facc1552] ">
               <span className="text-white uppercase font-primary text-[14px] font-semibold">
                 Total Deposit
@@ -47,7 +47,7 @@ const Earning = () => {
               Nothing to widdraw
             </button>
           </div>
-          <div className="lg:col-span-8 col-span-7 p-4 rounded-[15px] bg-white shadow">
+          <div className="lg:col-span-8 col-span-7 p-4 pb-2 rounded-[15px] bg-white shadow">
             <div className="plan-section border-b-[2px] border-b-[#facc1552] ">
               <span className="text-black  font-primary text-[14px] font-semibold">
                 Referral link
@@ -81,7 +81,7 @@ const Earning = () => {
                 0.0 AVAX
               </h3>
             </div>
-            <div className="roi-section border-b-[2px] border-b-[#facc1552] ">
+            <div className="roi-section ">
               <span className="text-black  font-primary text-[14px] font-semibold block mt-3">
                 Total referral earnings
               </span>
@@ -92,7 +92,7 @@ const Earning = () => {
           </div>
         </section>
       </main>
-      <footer className="text-center text-white bg-red text-[14px] py-4 font-primary">Copyright © 2023 AVAX. All rights reserved.</footer>
+      <footer className="text-center text-white bg-red text-[14px] py-4 font-primary">Copyright © 2024 AVAX. All rights reserved.</footer>
     </>
   );
 };
